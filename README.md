@@ -7,18 +7,18 @@ Includes custom **ggplot2 themes**, **color palettes**, and **figure layouts** d
 
 ## 📦 Contents
 
-### **1. ggplot2 Themes**
+1. ggplot2 Themes**
 - `theme_neuro_light()` – clean theme for basic plots  
 - `theme_neuro_dark()` – dark theme for presentations  
 - `theme_neuro_pub()` – journal-style publication-ready theme  
 
-### **2. Color Palettes**
+2. Color Palettes**
 - `neuro_colors` – main 8-color qualitative palette  
 - `dopamine_palette` – green family for dopaminergic pathways  
 - `serotonin_palette` – purple-orange palette  
 - `hemisphere_palette` – left vs right brain contrast palette  
 
-### **3. Plot Templates**
+3. Plot Templates**
 - Bar plots with error bars  
 - Scatter plots with regression  
 - Line plots for behavioral time-course  
